@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="windowActionModeOverlay">true</item>
+        <item name="actionModeBackground">@android:color/background_dark</item>
+  <!--      <item name="android:actionMenuTextColor">#000000</item>  -->
+
+    </style>
+
+    <style name="mystyle">
+        <item name="android:textColor">@color/myblack</item>
+    </style>
+</resources>

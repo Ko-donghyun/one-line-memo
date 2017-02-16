@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_menu">
+        <item>...</item>
+        <item>제목색상</item>
+        <item>수정하기</item>
+        <item>삭제하기</item>
+    </string-array>
+    <string-array name="color_select">
+        <item>흰색</item>
+        <item>빨간색</item>
+        <item>노란색</item>
+        <item>초록색</item>
+        <item>파란색</item>
+        <item>보라색</item>
+    </string-array>
+
+</resources>
